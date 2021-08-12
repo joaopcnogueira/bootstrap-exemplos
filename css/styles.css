@@ -1,0 +1,8 @@
+#form-container {
+    padding: 20px;
+}
+
+.form-group, .form-check {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
